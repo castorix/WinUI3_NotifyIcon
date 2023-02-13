@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3_NotifyIcon (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3_NotifyIcon (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
